@@ -1,0 +1,67 @@
+{
+  "source": "data/datasets/carparts-seg",
+  "output": "data/datasets/parts10",
+  "names": [
+    "front_bumper",
+    "back_bumper",
+    "hood",
+    "trunk",
+    "door",
+    "front_light",
+    "back_light",
+    "glass",
+    "mirror",
+    "wheel"
+  ],
+  "splits": {
+    "train": {
+      "images": 3156,
+      "classInstanceCounts": {
+        "front_bumper": 1616,
+        "back_bumper": 732,
+        "hood": 1706,
+        "trunk": 234,
+        "door": 2978,
+        "front_light": 3324,
+        "back_light": 2036,
+        "glass": 2572,
+        "mirror": 816,
+        "wheel": 709
+      },
+      "excludedObjectInstances": 10
+    },
+    "val": {
+      "images": 401,
+      "classInstanceCounts": {
+        "front_bumper": 208,
+        "back_bumper": 94,
+        "hood": 214,
+        "trunk": 14,
+        "door": 380,
+        "front_light": 429,
+        "back_light": 258,
+        "glass": 329,
+        "mirror": 62,
+        "wheel": 53
+      },
+      "excludedObjectInstances": 1
+    },
+    "test": {
+      "images": 276,
+      "classInstanceCounts": {
+        "front_bumper": 154,
+        "back_bumper": 44,
+        "hood": 160,
+        "trunk": 26,
+        "door": 309,
+        "front_light": 313,
+        "back_light": 140,
+        "glass": 219,
+        "mirror": 118,
+        "wheel": 115
+      },
+      "excludedObjectInstances": 1
+    }
+  },
+  "excludedClass": 18
+}

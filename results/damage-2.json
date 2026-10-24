@@ -1,0 +1,1585 @@
+{
+  "runId": "9c07e15e878346af84e5c79b1e905975",
+  "originalImageUrl": "/media/9c07e15e878346af84e5c79b1e905975.jpg",
+  "partsImageUrl": "/media/9c07e15e878346af84e5c79b1e905975-parts.jpg",
+  "matchingImageUrl": "/media/9c07e15e878346af84e5c79b1e905975-match.jpg",
+  "width": 640,
+  "height": 640,
+  "coordinateSpace": "EXIF纠正后原图，像素坐标xyxy",
+  "parts": [
+    {
+      "confidence": 0.7337,
+      "bbox": [
+        306.78,
+        318.76,
+        441.19,
+        582.98
+      ],
+      "rawClass": "wheel",
+      "candidateClasses": [
+        "wheel"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "wheel",
+      "partLabel": "车轮",
+      "group": "wheel",
+      "groupLabel": "车轮",
+      "instanceId": "part-1",
+      "areaPixels": 26339,
+      "polygons": [
+        [
+          [
+            405,
+            319
+          ],
+          [
+            388,
+            326
+          ],
+          [
+            368,
+            348
+          ],
+          [
+            354,
+            356
+          ],
+          [
+            335,
+            395
+          ],
+          [
+            326,
+            422
+          ],
+          [
+            310,
+            445
+          ],
+          [
+            307,
+            456
+          ],
+          [
+            308,
+            572
+          ],
+          [
+            318,
+            566
+          ],
+          [
+            338,
+            571
+          ],
+          [
+            356,
+            582
+          ],
+          [
+            384,
+            582
+          ],
+          [
+            398,
+            566
+          ],
+          [
+            419,
+            526
+          ],
+          [
+            436,
+            458
+          ],
+          [
+            441,
+            414
+          ],
+          [
+            441,
+            383
+          ],
+          [
+            438,
+            378
+          ],
+          [
+            439,
+            357
+          ],
+          [
+            434,
+            343
+          ],
+          [
+            421,
+            326
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.4922,
+      "bbox": [
+        575.62,
+        178.51,
+        639.69,
+        288.06
+      ],
+      "rawClass": "wheel",
+      "candidateClasses": [
+        "wheel"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "wheel",
+      "partLabel": "车轮",
+      "group": "wheel",
+      "groupLabel": "车轮",
+      "instanceId": "part-2",
+      "areaPixels": 3991,
+      "polygons": [
+        [
+          [
+            639,
+            179
+          ],
+          [
+            629,
+            181
+          ],
+          [
+            627,
+            192
+          ],
+          [
+            618,
+            208
+          ],
+          [
+            600,
+            229
+          ],
+          [
+            576,
+            248
+          ],
+          [
+            581,
+            266
+          ],
+          [
+            594,
+            281
+          ],
+          [
+            604,
+            286
+          ],
+          [
+            619,
+            285
+          ],
+          [
+            634,
+            266
+          ],
+          [
+            639,
+            268
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.424,
+      "bbox": [
+        553.47,
+        0.62,
+        635.19,
+        259.42
+      ],
+      "rawClass": "front_right_door",
+      "candidateClasses": [
+        "front_right_door"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "front_right_door",
+      "partLabel": "右前车门",
+      "group": "door",
+      "groupLabel": "车门",
+      "instanceId": "part-3",
+      "areaPixels": 11584,
+      "polygons": [
+        [
+          [
+            628,
+            1
+          ],
+          [
+            554,
+            1
+          ],
+          [
+            554,
+            34
+          ],
+          [
+            566,
+            45
+          ],
+          [
+            574,
+            93
+          ],
+          [
+            568,
+            163
+          ],
+          [
+            572,
+            182
+          ],
+          [
+            566,
+            209
+          ],
+          [
+            570,
+            226
+          ],
+          [
+            577,
+            225
+          ],
+          [
+            591,
+            215
+          ],
+          [
+            597,
+            219
+          ],
+          [
+            602,
+            216
+          ],
+          [
+            606,
+            207
+          ],
+          [
+            603,
+            200
+          ],
+          [
+            608,
+            190
+          ],
+          [
+            597,
+            183
+          ],
+          [
+            585,
+            182
+          ],
+          [
+            593,
+            173
+          ],
+          [
+            600,
+            171
+          ],
+          [
+            606,
+            165
+          ],
+          [
+            605,
+            162
+          ],
+          [
+            622,
+            144
+          ],
+          [
+            620,
+            133
+          ],
+          [
+            625,
+            135
+          ],
+          [
+            632,
+            113
+          ],
+          [
+            632,
+            62
+          ],
+          [
+            627,
+            57
+          ],
+          [
+            628,
+            54
+          ],
+          [
+            614,
+            43
+          ],
+          [
+            614,
+            36
+          ],
+          [
+            624,
+            18
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.3848,
+      "bbox": [
+        0.36,
+        0.49,
+        512.87,
+        465.12
+      ],
+      "rawClass": "trunk",
+      "candidateClasses": [
+        "trunk"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "trunk",
+      "partLabel": "后备箱盖",
+      "group": "trunk",
+      "groupLabel": "后备箱 / 尾门",
+      "instanceId": "part-4",
+      "areaPixels": 159661,
+      "polygons": [
+        [
+          [
+            318,
+            386
+          ],
+          [
+            307,
+            389
+          ],
+          [
+            301,
+            402
+          ],
+          [
+            290,
+            411
+          ],
+          [
+            266,
+            411
+          ],
+          [
+            263,
+            407
+          ],
+          [
+            258,
+            408
+          ],
+          [
+            252,
+            413
+          ],
+          [
+            249,
+            424
+          ],
+          [
+            253,
+            420
+          ],
+          [
+            262,
+            426
+          ],
+          [
+            242,
+            440
+          ],
+          [
+            236,
+            439
+          ],
+          [
+            227,
+            444
+          ],
+          [
+            183,
+            444
+          ],
+          [
+            162,
+            451
+          ],
+          [
+            153,
+            447
+          ],
+          [
+            152,
+            453
+          ],
+          [
+            157,
+            458
+          ],
+          [
+            170,
+            458
+          ],
+          [
+            173,
+            461
+          ],
+          [
+            172,
+            465
+          ],
+          [
+            275,
+            465
+          ],
+          [
+            300,
+            443
+          ],
+          [
+            318,
+            397
+          ]
+        ],
+        [
+          [
+            512,
+            295
+          ],
+          [
+            505,
+            298
+          ],
+          [
+            503,
+            303
+          ],
+          [
+            510,
+            301
+          ]
+        ],
+        [
+          [
+            1,
+            21
+          ],
+          [
+            1,
+            199
+          ],
+          [
+            4,
+            208
+          ],
+          [
+            2,
+            226
+          ],
+          [
+            4,
+            235
+          ],
+          [
+            11,
+            244
+          ],
+          [
+            10,
+            250
+          ],
+          [
+            1,
+            254
+          ],
+          [
+            1,
+            272
+          ],
+          [
+            8,
+            282
+          ],
+          [
+            5,
+            287
+          ],
+          [
+            5,
+            304
+          ],
+          [
+            8,
+            310
+          ],
+          [
+            41,
+            345
+          ],
+          [
+            45,
+            330
+          ],
+          [
+            53,
+            325
+          ],
+          [
+            107,
+            372
+          ],
+          [
+            113,
+            372
+          ],
+          [
+            108,
+            318
+          ],
+          [
+            104,
+            310
+          ],
+          [
+            103,
+            277
+          ],
+          [
+            106,
+            262
+          ],
+          [
+            100,
+            222
+          ],
+          [
+            101,
+            213
+          ],
+          [
+            108,
+            211
+          ],
+          [
+            116,
+            214
+          ],
+          [
+            116,
+            238
+          ],
+          [
+            125,
+            253
+          ],
+          [
+            121,
+            258
+          ],
+          [
+            122,
+            262
+          ],
+          [
+            130,
+            250
+          ],
+          [
+            140,
+            265
+          ],
+          [
+            147,
+            265
+          ],
+          [
+            152,
+            258
+          ],
+          [
+            158,
+            229
+          ],
+          [
+            163,
+            229
+          ],
+          [
+            170,
+            257
+          ],
+          [
+            179,
+            261
+          ],
+          [
+            183,
+            267
+          ],
+          [
+            187,
+            312
+          ],
+          [
+            191,
+            317
+          ],
+          [
+            187,
+            334
+          ],
+          [
+            180,
+            337
+          ],
+          [
+            179,
+            343
+          ],
+          [
+            169,
+            354
+          ],
+          [
+            165,
+            353
+          ],
+          [
+            153,
+            332
+          ],
+          [
+            145,
+            331
+          ],
+          [
+            134,
+            336
+          ],
+          [
+            132,
+            345
+          ],
+          [
+            140,
+            347
+          ],
+          [
+            143,
+            352
+          ],
+          [
+            140,
+            363
+          ],
+          [
+            130,
+            373
+          ],
+          [
+            132,
+            378
+          ],
+          [
+            154,
+            388
+          ],
+          [
+            154,
+            392
+          ],
+          [
+            147,
+            394
+          ],
+          [
+            154,
+            397
+          ],
+          [
+            154,
+            402
+          ],
+          [
+            160,
+            403
+          ],
+          [
+            177,
+            393
+          ],
+          [
+            188,
+            381
+          ],
+          [
+            226,
+            365
+          ],
+          [
+            230,
+            375
+          ],
+          [
+            235,
+            377
+          ],
+          [
+            232,
+            382
+          ],
+          [
+            236,
+            391
+          ],
+          [
+            229,
+            400
+          ],
+          [
+            219,
+            406
+          ],
+          [
+            231,
+            414
+          ],
+          [
+            230,
+            422
+          ],
+          [
+            242,
+            419
+          ],
+          [
+            241,
+            410
+          ],
+          [
+            245,
+            402
+          ],
+          [
+            240,
+            397
+          ],
+          [
+            242,
+            394
+          ],
+          [
+            261,
+            396
+          ],
+          [
+            261,
+            404
+          ],
+          [
+            274,
+            402
+          ],
+          [
+            278,
+            394
+          ],
+          [
+            284,
+            370
+          ],
+          [
+            280,
+            338
+          ],
+          [
+            286,
+            320
+          ],
+          [
+            291,
+            255
+          ],
+          [
+            297,
+            245
+          ],
+          [
+            305,
+            254
+          ],
+          [
+            307,
+            261
+          ],
+          [
+            305,
+            297
+          ],
+          [
+            312,
+            309
+          ],
+          [
+            309,
+            318
+          ],
+          [
+            319,
+            324
+          ],
+          [
+            321,
+            338
+          ],
+          [
+            307,
+            362
+          ],
+          [
+            313,
+            364
+          ],
+          [
+            317,
+            361
+          ],
+          [
+            322,
+            366
+          ],
+          [
+            321,
+            383
+          ],
+          [
+            326,
+            382
+          ],
+          [
+            334,
+            365
+          ],
+          [
+            344,
+            317
+          ],
+          [
+            367,
+            260
+          ],
+          [
+            393,
+            236
+          ],
+          [
+            434,
+            212
+          ],
+          [
+            445,
+            211
+          ],
+          [
+            452,
+            215
+          ],
+          [
+            459,
+            233
+          ],
+          [
+            466,
+            238
+          ],
+          [
+            467,
+            259
+          ],
+          [
+            461,
+            297
+          ],
+          [
+            461,
+            330
+          ],
+          [
+            466,
+            329
+          ],
+          [
+            468,
+            322
+          ],
+          [
+            463,
+            315
+          ],
+          [
+            464,
+            310
+          ],
+          [
+            474,
+            306
+          ],
+          [
+            481,
+            292
+          ],
+          [
+            505,
+            290
+          ],
+          [
+            512,
+            293
+          ],
+          [
+            512,
+            242
+          ],
+          [
+            494,
+            245
+          ],
+          [
+            490,
+            241
+          ],
+          [
+            473,
+            238
+          ],
+          [
+            478,
+            233
+          ],
+          [
+            481,
+            234
+          ],
+          [
+            502,
+            209
+          ],
+          [
+            510,
+            205
+          ],
+          [
+            512,
+            210
+          ],
+          [
+            512,
+            1
+          ],
+          [
+            429,
+            1
+          ],
+          [
+            413,
+            3
+          ],
+          [
+            404,
+            8
+          ],
+          [
+            371,
+            11
+          ],
+          [
+            336,
+            1
+          ],
+          [
+            193,
+            1
+          ],
+          [
+            168,
+            8
+          ],
+          [
+            162,
+            7
+          ],
+          [
+            157,
+            1
+          ],
+          [
+            27,
+            1
+          ],
+          [
+            13,
+            17
+          ],
+          [
+            5,
+            22
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.3352,
+      "bbox": [
+        616.12,
+        1.74,
+        639.73,
+        47.26
+      ],
+      "rawClass": "right_mirror",
+      "candidateClasses": [
+        "right_mirror"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "right_mirror",
+      "partLabel": "右后视镜",
+      "group": "mirror",
+      "groupLabel": "后视镜",
+      "instanceId": "part-5",
+      "areaPixels": 821,
+      "polygons": [
+        [
+          [
+            627,
+            2
+          ],
+          [
+            624,
+            19
+          ],
+          [
+            617,
+            28
+          ],
+          [
+            617,
+            44
+          ],
+          [
+            639,
+            46
+          ],
+          [
+            639,
+            2
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.3143,
+      "bbox": [
+        98.29,
+        174.84,
+        187.83,
+        404.83
+      ],
+      "rawClass": "back_left_light",
+      "candidateClasses": [
+        "back_left_light"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "back_left_light",
+      "partLabel": "左后车灯",
+      "group": "back_light",
+      "groupLabel": "后车灯",
+      "instanceId": "part-6",
+      "areaPixels": 17089,
+      "polygons": [
+        [
+          [
+            102,
+            175
+          ],
+          [
+            99,
+            180
+          ],
+          [
+            99,
+            223
+          ],
+          [
+            105,
+            260
+          ],
+          [
+            105,
+            298
+          ],
+          [
+            114,
+            369
+          ],
+          [
+            125,
+            383
+          ],
+          [
+            136,
+            390
+          ],
+          [
+            171,
+            393
+          ],
+          [
+            181,
+            387
+          ],
+          [
+            187,
+            379
+          ],
+          [
+            187,
+            218
+          ],
+          [
+            178,
+            189
+          ],
+          [
+            171,
+            175
+          ],
+          [
+            149,
+            175
+          ],
+          [
+            145,
+            178
+          ],
+          [
+            109,
+            178
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.2876,
+      "bbox": [
+        617.3,
+        0.28,
+        639.7,
+        168.21
+      ],
+      "rawClass": "front_left_door",
+      "candidateClasses": [
+        "front_left_door"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "front_left_door",
+      "partLabel": "左前车门",
+      "group": "door",
+      "groupLabel": "车门",
+      "instanceId": "part-7",
+      "areaPixels": 1942,
+      "polygons": [
+        [
+          [
+            622,
+            98
+          ],
+          [
+            618,
+            98
+          ],
+          [
+            618,
+            162
+          ],
+          [
+            625,
+            161
+          ],
+          [
+            630,
+            137
+          ],
+          [
+            628,
+            106
+          ]
+        ],
+        [
+          [
+            626,
+            1
+          ],
+          [
+            626,
+            8
+          ],
+          [
+            619,
+            22
+          ],
+          [
+            635,
+            34
+          ],
+          [
+            636,
+            46
+          ],
+          [
+            622,
+            52
+          ],
+          [
+            621,
+            67
+          ],
+          [
+            627,
+            70
+          ],
+          [
+            632,
+            83
+          ],
+          [
+            633,
+            100
+          ],
+          [
+            639,
+            103
+          ],
+          [
+            639,
+            1
+          ]
+        ]
+      ]
+    }
+  ],
+  "damages": [
+    {
+      "confidence": 0.7508,
+      "bbox": [
+        167.15,
+        62.29,
+        580.46,
+        472.47
+      ],
+      "damageType": "dent",
+      "damageLabel": "凹陷",
+      "damageId": "damage-1",
+      "part": "trunk",
+      "partLabel": "后备箱盖",
+      "partInstanceId": "part-4",
+      "partConfidence": 0.3848,
+      "damageRatio": 0.43338,
+      "matchCoverage": 0.77298,
+      "matchIou": 0.51889,
+      "matchStatus": "matched",
+      "ratioMethod": "mask_intersection",
+      "candidates": [
+        {
+          "part": "trunk",
+          "partLabel": "后备箱盖",
+          "instanceId": "part-4",
+          "coverage": 0.77298,
+          "iou": 0.51889,
+          "damageRatio": 0.43338,
+          "confidence": 0.3848,
+          "method": "mask_intersection",
+          "semanticCompatible": true
+        },
+        {
+          "part": "back_left_light",
+          "partLabel": "左后车灯",
+          "instanceId": "part-6",
+          "coverage": 0.01351,
+          "iou": 0.02566,
+          "damageRatio": 0.07075,
+          "confidence": 0.3143,
+          "method": "mask_intersection",
+          "semanticCompatible": true
+        },
+        {
+          "part": "front_right_door",
+          "partLabel": "右前车门",
+          "instanceId": "part-3",
+          "coverage": 0.00515,
+          "iou": 0.0287,
+          "damageRatio": 0.0398,
+          "confidence": 0.424,
+          "method": "mask_intersection",
+          "semanticCompatible": true
+        }
+      ],
+      "matchReason": "按部件覆盖损伤的比例匹配，IoU用于次级排序。"
+    },
+    {
+      "confidence": 0.3357,
+      "bbox": [
+        561.0,
+        112.51,
+        631.74,
+        241.83
+      ],
+      "damageType": "dent",
+      "damageLabel": "凹陷",
+      "damageId": "damage-2",
+      "part": "front_right_door",
+      "partLabel": "右前车门",
+      "partInstanceId": "part-3",
+      "partConfidence": 0.424,
+      "damageRatio": 0.2828,
+      "matchCoverage": 0.61905,
+      "matchIou": 0.43255,
+      "matchStatus": "matched",
+      "ratioMethod": "mask_intersection",
+      "candidates": [
+        {
+          "part": "front_right_door",
+          "partLabel": "右前车门",
+          "instanceId": "part-3",
+          "coverage": 0.61905,
+          "iou": 0.43255,
+          "damageRatio": 0.2828,
+          "confidence": 0.424,
+          "method": "mask_intersection",
+          "semanticCompatible": true
+        },
+        {
+          "part": "front_left_door",
+          "partLabel": "左前车门",
+          "instanceId": "part-7",
+          "coverage": 0.10544,
+          "iou": 0.06644,
+          "damageRatio": 0.28733,
+          "confidence": 0.2876,
+          "method": "mask_intersection",
+          "semanticCompatible": true
+        }
+      ],
+      "matchReason": "按部件覆盖损伤的比例匹配，IoU用于次级排序。"
+    }
+  ],
+  "damageOrigin": "公开CarDD模型预测（仅供学生2联调）",
+  "elapsedMs": 1652,
+  "mode": "auto",
+  "thresholds": {
+    "partConfidence": 0.25,
+    "damageConfidence": 0.25,
+    "minCoverage": 0.35
+  },
+  "model": {
+    "partsModel": "YOLO11n · 车辆部件实例分割",
+    "partsSource": "https://huggingface.co/Majorburn/yolov11-carparts-seg",
+    "damageModel": "CarDD YOLOv8s-seg v2.0 · 可选联调输入",
+    "damageSource": "https://huggingface.co/abdullahg7/cardd-yolov8s",
+    "device": "CPU",
+    "partClasses": [
+      {
+        "code": "back_bumper",
+        "label": "后保险杠",
+        "group": "back_bumper"
+      },
+      {
+        "code": "front_bumper",
+        "label": "前保险杠",
+        "group": "front_bumper"
+      },
+      {
+        "code": "hood",
+        "label": "引擎盖",
+        "group": "hood"
+      },
+      {
+        "code": "trunk",
+        "label": "后备箱盖",
+        "group": "trunk"
+      },
+      {
+        "code": "tailgate",
+        "label": "尾门",
+        "group": "trunk"
+      },
+      {
+        "code": "front_door",
+        "label": "前车门（侧别未确定）",
+        "group": "door"
+      },
+      {
+        "code": "back_door",
+        "label": "后车门（侧别未确定）",
+        "group": "door"
+      },
+      {
+        "code": "front_left_door",
+        "label": "左前车门",
+        "group": "door"
+      },
+      {
+        "code": "front_right_door",
+        "label": "右前车门",
+        "group": "door"
+      },
+      {
+        "code": "back_left_door",
+        "label": "左后车门",
+        "group": "door"
+      },
+      {
+        "code": "back_right_door",
+        "label": "右后车门",
+        "group": "door"
+      },
+      {
+        "code": "front_left_light",
+        "label": "左前车灯",
+        "group": "front_light"
+      },
+      {
+        "code": "front_right_light",
+        "label": "右前车灯",
+        "group": "front_light"
+      },
+      {
+        "code": "back_left_light",
+        "label": "左后车灯",
+        "group": "back_light"
+      },
+      {
+        "code": "back_right_light",
+        "label": "右后车灯",
+        "group": "back_light"
+      },
+      {
+        "code": "front_light",
+        "label": "前车灯（侧别未确定）",
+        "group": "front_light"
+      },
+      {
+        "code": "back_light",
+        "label": "后车灯（侧别未确定）",
+        "group": "back_light"
+      },
+      {
+        "code": "front_glass",
+        "label": "前挡风玻璃",
+        "group": "glass"
+      },
+      {
+        "code": "back_glass",
+        "label": "后挡风玻璃",
+        "group": "glass"
+      },
+      {
+        "code": "left_mirror",
+        "label": "左后视镜",
+        "group": "mirror"
+      },
+      {
+        "code": "right_mirror",
+        "label": "右后视镜",
+        "group": "mirror"
+      },
+      {
+        "code": "wheel",
+        "label": "车轮",
+        "group": "wheel"
+      },
+      {
+        "code": "door",
+        "label": "车门（细分类待确认）",
+        "group": "door"
+      },
+      {
+        "code": "mirror",
+        "label": "后视镜（侧别待确认）",
+        "group": "mirror"
+      },
+      {
+        "code": "glass",
+        "label": "玻璃（位置待确认）",
+        "group": "glass"
+      }
+    ],
+    "nativeModelClasses": [
+      "back_bumper",
+      "back_door",
+      "back_glass",
+      "back_left_door",
+      "back_left_light",
+      "back_light",
+      "back_right_door",
+      "back_right_light",
+      "front_bumper",
+      "front_door",
+      "front_glass",
+      "front_left_door",
+      "front_left_light",
+      "front_light",
+      "front_right_door",
+      "front_right_light",
+      "hood",
+      "left_mirror",
+      "object",
+      "right_mirror",
+      "tailgate",
+      "trunk",
+      "wheel"
+    ],
+    "focusGroups": {
+      "front_bumper": "前保险杠",
+      "back_bumper": "后保险杠",
+      "hood": "引擎盖",
+      "trunk": "后备箱 / 尾门",
+      "door": "车门",
+      "front_light": "前车灯",
+      "back_light": "后车灯",
+      "glass": "挡风玻璃",
+      "mirror": "后视镜",
+      "wheel": "车轮"
+    },
+    "excludedClasses": [
+      "object"
+    ],
+    "weightsOrigin": "公开预训练模型，非学生自行训练",
+    "matchingMethod": "优先分割区域交集；外部损伤框采用框内部件像素覆盖率。IoU作为次级排序依据。车灯/玻璃/轮胎损伤附加类别相容检查。",
+    "deduplication": "同类部件Mask IoU≥0.65合并，冲突标签保留待确认",
+    "notice": "本Demo使用公开预训练模型，识别与匹配结果需要人工复核。"
+  },
+  "notice": "本Demo使用公开预训练模型，识别与匹配结果需要人工复核。"
+}

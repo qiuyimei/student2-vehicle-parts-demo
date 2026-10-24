@@ -1,0 +1,86 @@
+[
+  {
+    "name": "damage",
+    "url": "https://huggingface.co/abdullahg7/cardd-yolov8s/resolve/main/v2.0/best.pt",
+    "path": "models/damage.pt",
+    "sha256": "529602f6390c6f7016dd2ef9e3465a2923cf744589868278fb08b10464c35698",
+    "size": 23882275
+  },
+  {
+    "name": "parts",
+    "url": "https://huggingface.co/Majorburn/yolov11-carparts-seg/resolve/main/best.pt",
+    "path": "models/parts.pt",
+    "sha256": "6759cf983e0bdefaa95d2d3fc6b37f89d3718a319c08617c3c7a339e18fdc3cd",
+    "size": 6016100
+  },
+  {
+    "name": "license",
+    "url": "https://raw.githubusercontent.com/ultralytics/ultralytics/main/LICENSE",
+    "path": "LICENSE",
+    "sha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+    "size": 34523
+  },
+  {
+    "name": "sample1",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-damage-det/sample-1.jpg",
+    "path": "samples/damage-1.jpg",
+    "sha256": "f4de038e24e65284a3842b4def84952e752955b34609d4d074a4f9416023e539",
+    "size": 53903
+  },
+  {
+    "name": "sample2",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-damage-det/sample-2.jpg",
+    "path": "samples/damage-2.jpg",
+    "sha256": "ddcf1fba11db0760c4d5091a284dab84227a62f18df9524ef56350f2dc2ce194",
+    "size": 62395
+  },
+  {
+    "name": "sample3",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-damage-det/sample-3.jpg",
+    "path": "samples/damage-3.jpg",
+    "sha256": "4b80a169e22df3d0040a29421db5eba4a8b94e9b1d1a1a45d5f24624051630d4",
+    "size": 47817
+  },
+  {
+    "name": "sample4",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-damage-det/sample-4.jpg",
+    "path": "samples/damage-4.jpg",
+    "sha256": "c89f33f1f52f588bcde9b1711a75e550732363fed3c0981e461e5d583988b321",
+    "size": 65367
+  },
+  {
+    "name": "sample5",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-damage-det/sample-5.jpg",
+    "path": "samples/damage-5.jpg",
+    "sha256": "8f1bd8775acfdbd658ec27f495dcc7e2391ac199772b6e8b37ca9b3432ef8a44",
+    "size": 61385
+  },
+  {
+    "name": "sample6",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-damage-det/sample-6.jpg",
+    "path": "samples/damage-6.jpg",
+    "sha256": "84b1855a9ce9bbf3cf1f50a676329746d5788fb0ddf1b22bbb2b0106c3774afc",
+    "size": 45627
+  },
+  {
+    "name": "parts_sample1",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-parts-seg/sample-1.jpg",
+    "path": "samples/parts-1.jpg",
+    "sha256": "b063af50c541f5481521ebdfba2740851ff1693a418cca1a86bf1f140ba67b21",
+    "size": 48351
+  },
+  {
+    "name": "parts_sample2",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-parts-seg/sample-2.jpg",
+    "path": "samples/parts-2.jpg",
+    "sha256": "f80784d1b5e51f996e2178e429bf82a9533640b56cbc51877082ec1c2c1fa5cd",
+    "size": 38217
+  },
+  {
+    "name": "parts_sample3",
+    "url": "https://huggingface.co/spaces/Thanaphit/yolov8-car-parts-and-damage-segmentation/resolve/main/sample/car-parts-seg/sample-3.jpg",
+    "path": "samples/parts-3.jpg",
+    "sha256": "73bd07bd516886ffae47c1206c626bf652d420239954229d20a66d52cd383111",
+    "size": 65218
+  }
+]

@@ -1,0 +1,169 @@
+{
+  "evaluationType": "公开预训练原始23类模型，在官方Carparts-seg test划分上的本地评估；不含业务10类归并和匹配后处理",
+  "modelSource": "https://huggingface.co/Majorburn/yolov11-carparts-seg",
+  "datasetSource": "https://github.com/ultralytics/assets/releases/download/v0.0.0/carparts-seg.zip",
+  "datasetZipSha256": "e2eea20030d02366b07174bcdbcc843f63791bdd53962a83e00636d15e78e41f",
+  "modelSha256": "6759cf983e0bdefaa95d2d3fc6b37f89d3718a319c08617c3c7a339e18fdc3cd",
+  "images": 276,
+  "parameters": {
+    "split": "test",
+    "imgsz": 640,
+    "batch": 4,
+    "device": "cpu",
+    "conf": 0.001,
+    "iou": 0.7
+  },
+  "metrics": {
+    "metrics/precision(B)": 0.6247710448402344,
+    "metrics/recall(B)": 0.8207688516349672,
+    "metrics/mAP50(B)": 0.7118235137997458,
+    "metrics/mAP50-95(B)": 0.6057059466475693,
+    "metrics/precision(M)": 0.6287343535073664,
+    "metrics/recall(M)": 0.8240150187432853,
+    "metrics/mAP50(M)": 0.7143627669135747,
+    "metrics/mAP50-95(M)": 0.5816206020534218,
+    "fitness": 1.187326548700991
+  },
+  "perClass": [
+    {
+      "classId": 0,
+      "name": "back_bumper",
+      "boxMap50_95": 0.83165431884654,
+      "maskMap50_95": 0.8227237470284109
+    },
+    {
+      "classId": 1,
+      "name": "back_door",
+      "boxMap50_95": 0.8405376192548756,
+      "maskMap50_95": 0.8063645186142742
+    },
+    {
+      "classId": 2,
+      "name": "back_glass",
+      "boxMap50_95": 0.8434496054330358,
+      "maskMap50_95": 0.8097739784851126
+    },
+    {
+      "classId": 3,
+      "name": "back_left_door",
+      "boxMap50_95": 0.6347471374492275,
+      "maskMap50_95": 0.5935364103416763
+    },
+    {
+      "classId": 4,
+      "name": "back_left_light",
+      "boxMap50_95": 0.43761924815988473,
+      "maskMap50_95": 0.4053101144492245
+    },
+    {
+      "classId": 5,
+      "name": "back_light",
+      "boxMap50_95": 0.672574434999321,
+      "maskMap50_95": 0.6313773161180349
+    },
+    {
+      "classId": 6,
+      "name": "back_right_door",
+      "boxMap50_95": 0.4850247632788012,
+      "maskMap50_95": 0.42547434695875985
+    },
+    {
+      "classId": 7,
+      "name": "back_right_light",
+      "boxMap50_95": 0.4145109211908028,
+      "maskMap50_95": 0.38537187338102635
+    },
+    {
+      "classId": 8,
+      "name": "front_bumper",
+      "boxMap50_95": 0.8896342138441096,
+      "maskMap50_95": 0.8820965302375642
+    },
+    {
+      "classId": 9,
+      "name": "front_door",
+      "boxMap50_95": 0.8518616782016271,
+      "maskMap50_95": 0.848612387021209
+    },
+    {
+      "classId": 10,
+      "name": "front_glass",
+      "boxMap50_95": 0.910250943221478,
+      "maskMap50_95": 0.9183398745381263
+    },
+    {
+      "classId": 11,
+      "name": "front_left_door",
+      "boxMap50_95": 0.6069858074629918,
+      "maskMap50_95": 0.5349262654072485
+    },
+    {
+      "classId": 12,
+      "name": "front_left_light",
+      "boxMap50_95": 0.5330373109024922,
+      "maskMap50_95": 0.5170276973343754
+    },
+    {
+      "classId": 13,
+      "name": "front_light",
+      "boxMap50_95": 0.7050990886581802,
+      "maskMap50_95": 0.679369348785368
+    },
+    {
+      "classId": 14,
+      "name": "front_right_door",
+      "boxMap50_95": 0.423962002328945,
+      "maskMap50_95": 0.3649000615741997
+    },
+    {
+      "classId": 15,
+      "name": "front_right_light",
+      "boxMap50_95": 0.31242823446929674,
+      "maskMap50_95": 0.30266418499235553
+    },
+    {
+      "classId": 16,
+      "name": "hood",
+      "boxMap50_95": 0.8895755586692079,
+      "maskMap50_95": 0.8917008960687515
+    },
+    {
+      "classId": 17,
+      "name": "left_mirror",
+      "boxMap50_95": 0.37713287698590187,
+      "maskMap50_95": 0.37189099536856823
+    },
+    {
+      "classId": 18,
+      "name": "object",
+      "boxMap50_95": 0.0,
+      "maskMap50_95": 0.0
+    },
+    {
+      "classId": 19,
+      "name": "right_mirror",
+      "boxMap50_95": 0.3286213526439669,
+      "maskMap50_95": 0.31969938134995884
+    },
+    {
+      "classId": 20,
+      "name": "tailgate",
+      "boxMap50_95": 0.8548571428571428,
+      "maskMap50_95": 0.875
+    },
+    {
+      "classId": 21,
+      "name": "trunk",
+      "boxMap50_95": 0.6948780980713308,
+      "maskMap50_95": 0.6067222749736775
+    },
+    {
+      "classId": 22,
+      "name": "wheel",
+      "boxMap50_95": 0.3927944159649351,
+      "maskMap50_95": 0.38439164420077937
+    }
+  ],
+  "elapsedSeconds": 126.75,
+  "limit": "公开测试集与第三方模型训练数据的关系未独立核查，不能声称是本项目自建独立测试或学生自训成果。"
+}

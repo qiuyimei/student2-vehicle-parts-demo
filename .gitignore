@@ -1,0 +1,27 @@
+.venv/
+__pycache__/
+.pytest_cache/
+data/
+runs/
+*.pyc
+
+# 可重新下载或从Release取得的大文件
+models/*.pt
+datasets/
+*.zip
+*.partial
+
+# 本机配置与编辑器状态
+.env
+.env.*
+!.env.example
+*.local.json
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# 重新运行时生成的结果，历史样例仍由Git记录
+results/*-rerun.json
+results/tutorial-runs/
+results/revalidation-*/

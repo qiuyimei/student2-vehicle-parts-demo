@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-15",
+  "testsPassed": 25,
+  "testDurationSeconds": 19.43,
+  "result": "passed",
+  "uiVerified": [
+    "真实模型推理",
+    "部件分割图",
+    "损伤关联图与明细",
+    "外部损伤输入",
+    "JSON下载"
+  ],
+  "launcherVerified": [
+    "重复启动不会重复创建服务",
+    "停止与重启",
+    "实际服务PID与端口监听PID一致"
+  ],
+  "modelsTrainedByStudent": false
+}

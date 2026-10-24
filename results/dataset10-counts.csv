@@ -1,0 +1,11 @@
+﻿class,train,val,test
+front_bumper,1616,208,154
+back_bumper,732,94,44
+hood,1706,214,160
+trunk,234,14,26
+door,2978,380,309
+front_light,3324,429,313
+back_light,2036,258,140
+glass,2572,329,219
+mirror,816,62,118
+wheel,709,53,115

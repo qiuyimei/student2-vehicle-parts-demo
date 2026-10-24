@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-25",
+  "testsPassed": 31,
+  "testDurationSeconds": 5.25,
+  "warning": "Starlette TestClient的httpx弃用提示，断言通过",
+  "checked": [
+    "模型与样例SHA256",
+    "无模型教学例子",
+    "外部损伤接口客户端",
+    "带阈值及显式模型路径的命令行",
+    "官方ZIP离线提取276张test图片",
+    "Markdown相对链接"
+  ],
+  "trainingPerformed": false,
+  "baselineExperimentDate": "2026-10-15"
+}

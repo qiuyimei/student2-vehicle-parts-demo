@@ -1,0 +1,16 @@
+# 教学10类部件数据集模板。请修改path；目录中的标签需符合YOLO分割格式。
+path: ../datasets/parts10
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: front_bumper
+  1: back_bumper
+  2: hood
+  3: trunk
+  4: door
+  5: front_light
+  6: back_light
+  7: glass
+  8: mirror
+  9: wheel

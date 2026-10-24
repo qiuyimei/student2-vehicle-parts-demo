@@ -1,0 +1,99 @@
+{
+  "images": 9,
+  "partInstances": 55,
+  "damageInputs": 21,
+  "matchedInputs": 14,
+  "metricType": "运行烟测；无人工GT，不是准确率评估",
+  "rows": [
+    {
+      "image": "damage-1.jpg",
+      "parts": 2,
+      "damageInputs": 4,
+      "matched": 2,
+      "multipleCandidates": 0,
+      "elapsedMs": 1524,
+      "partLabels": "后挡风玻璃 / 后备箱盖",
+      "matches": "车灯破损→部位待确认 / 凹陷→部位待确认 / 凹陷→后备箱盖 / 凹陷→后备箱盖"
+    },
+    {
+      "image": "damage-2.jpg",
+      "parts": 7,
+      "damageInputs": 2,
+      "matched": 2,
+      "multipleCandidates": 0,
+      "elapsedMs": 1652,
+      "partLabels": "车轮 / 车轮 / 右前车门 / 后备箱盖 / 右后视镜 / 左后车灯 / 左前车门",
+      "matches": "凹陷→后备箱盖 / 凹陷→右前车门"
+    },
+    {
+      "image": "damage-3.jpg",
+      "parts": 9,
+      "damageInputs": 4,
+      "matched": 3,
+      "multipleCandidates": 0,
+      "elapsedMs": 1613,
+      "partLabels": "前挡风玻璃 / 引擎盖 / 前保险杠 / 车轮 / 前车灯（侧别未确定） / 前车门（侧别未确定） / 左后车门 / 后视镜（侧别待确认） / 右后视镜",
+      "matches": "轮胎异常→车轮 / 凹陷→前车灯（侧别未确定） / 划痕→前车门（侧别未确定） / 凹陷→部位待确认"
+    },
+    {
+      "image": "damage-4.jpg",
+      "parts": 7,
+      "damageInputs": 1,
+      "matched": 1,
+      "multipleCandidates": 0,
+      "elapsedMs": 2581,
+      "partLabels": "前挡风玻璃 / 前保险杠 / 引擎盖 / 车轮 / 右后视镜 / 前车门（侧别未确定） / 前车灯（侧别未确定）",
+      "matches": "凹陷→前保险杠"
+    },
+    {
+      "image": "damage-5.jpg",
+      "parts": 8,
+      "damageInputs": 3,
+      "matched": 3,
+      "multipleCandidates": 0,
+      "elapsedMs": 2123,
+      "partLabels": "前挡风玻璃 / 引擎盖 / 前保险杠 / 车轮 / 左前车灯 / 右后视镜 / 前车门（侧别未确定） / 后车门（侧别未确定）",
+      "matches": "车灯破损→左前车灯 / 裂纹→前保险杠 / 轮胎异常→车轮"
+    },
+    {
+      "image": "damage-6.jpg",
+      "parts": 5,
+      "damageInputs": 2,
+      "matched": 1,
+      "multipleCandidates": 0,
+      "elapsedMs": 3125,
+      "partLabels": "引擎盖 / 右前车门 / 车轮 / 前挡风玻璃 / 前保险杠",
+      "matches": "裂纹→部位待确认 / 裂纹→前保险杠"
+    },
+    {
+      "image": "parts-1.jpg",
+      "parts": 10,
+      "damageInputs": 2,
+      "matched": 1,
+      "multipleCandidates": 0,
+      "elapsedMs": 1319,
+      "partLabels": "前挡风玻璃 / 引擎盖 / 前保险杠 / 车轮 / 前车门（侧别未确定） / 左后车门 / 车轮 / 右后视镜 / 右前车灯 / 左前车灯",
+      "matches": "车灯破损→右前车灯 / 凹陷→部位待确认"
+    },
+    {
+      "image": "parts-2.jpg",
+      "parts": 0,
+      "damageInputs": 1,
+      "matched": 0,
+      "multipleCandidates": 0,
+      "elapsedMs": 1412,
+      "partLabels": "",
+      "matches": "划痕→部位待确认"
+    },
+    {
+      "image": "parts-3.jpg",
+      "parts": 7,
+      "damageInputs": 2,
+      "matched": 1,
+      "multipleCandidates": 0,
+      "elapsedMs": 1389,
+      "partLabels": "后挡风玻璃 / 后保险杠 / 车轮 / 后挡风玻璃 / 后挡风玻璃 / 后车灯（侧别未确定） / 后备箱盖",
+      "matches": "车灯破损→后车灯（侧别未确定） / 凹陷→部位待确认"
+    }
+  ]
+}

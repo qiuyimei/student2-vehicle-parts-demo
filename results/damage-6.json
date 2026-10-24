@@ -1,0 +1,1180 @@
+{
+  "runId": "fe7d52c5476345abb30ad1fcc692c046",
+  "originalImageUrl": "/media/fe7d52c5476345abb30ad1fcc692c046.jpg",
+  "partsImageUrl": "/media/fe7d52c5476345abb30ad1fcc692c046-parts.jpg",
+  "matchingImageUrl": "/media/fe7d52c5476345abb30ad1fcc692c046-match.jpg",
+  "width": 640,
+  "height": 640,
+  "coordinateSpace": "EXIF纠正后原图，像素坐标xyxy",
+  "parts": [
+    {
+      "confidence": 0.8744,
+      "bbox": [
+        206.68,
+        4.25,
+        639.51,
+        102.65
+      ],
+      "rawClass": "hood",
+      "candidateClasses": [
+        "hood"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "hood",
+      "partLabel": "引擎盖",
+      "group": "hood",
+      "groupLabel": "引擎盖",
+      "instanceId": "part-1",
+      "areaPixels": 28784,
+      "polygons": [
+        [
+          [
+            207,
+            5
+          ],
+          [
+            207,
+            25
+          ],
+          [
+            211,
+            29
+          ],
+          [
+            208,
+            38
+          ],
+          [
+            221,
+            53
+          ],
+          [
+            298,
+            56
+          ],
+          [
+            335,
+            62
+          ],
+          [
+            366,
+            77
+          ],
+          [
+            392,
+            102
+          ],
+          [
+            482,
+            88
+          ],
+          [
+            525,
+            91
+          ],
+          [
+            639,
+            79
+          ],
+          [
+            639,
+            5
+          ],
+          [
+            444,
+            5
+          ],
+          [
+            338,
+            21
+          ],
+          [
+            213,
+            25
+          ],
+          [
+            207,
+            17
+          ],
+          [
+            219,
+            7
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.4222,
+      "bbox": [
+        78.79,
+        1.24,
+        157.13,
+        266.02
+      ],
+      "rawClass": "front_right_door",
+      "candidateClasses": [
+        "front_right_door"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "front_right_door",
+      "partLabel": "右前车门",
+      "group": "door",
+      "groupLabel": "车门",
+      "instanceId": "part-2",
+      "areaPixels": 8121,
+      "polygons": [
+        [
+          [
+            79,
+            13
+          ],
+          [
+            90,
+            5
+          ],
+          [
+            79,
+            3
+          ]
+        ],
+        [
+          [
+            157,
+            2
+          ],
+          [
+            128,
+            3
+          ],
+          [
+            124,
+            17
+          ],
+          [
+            115,
+            29
+          ],
+          [
+            116,
+            49
+          ],
+          [
+            128,
+            61
+          ],
+          [
+            124,
+            64
+          ],
+          [
+            94,
+            64
+          ],
+          [
+            86,
+            73
+          ],
+          [
+            83,
+            88
+          ],
+          [
+            79,
+            90
+          ],
+          [
+            81,
+            184
+          ],
+          [
+            85,
+            190
+          ],
+          [
+            86,
+            204
+          ],
+          [
+            97,
+            231
+          ],
+          [
+            97,
+            238
+          ],
+          [
+            102,
+            242
+          ],
+          [
+            103,
+            249
+          ],
+          [
+            101,
+            252
+          ],
+          [
+            98,
+            247
+          ],
+          [
+            93,
+            248
+          ],
+          [
+            94,
+            266
+          ],
+          [
+            97,
+            259
+          ],
+          [
+            102,
+            260
+          ],
+          [
+            105,
+            265
+          ],
+          [
+            113,
+            263
+          ],
+          [
+            114,
+            233
+          ],
+          [
+            110,
+            196
+          ],
+          [
+            92,
+            175
+          ],
+          [
+            91,
+            146
+          ],
+          [
+            97,
+            144
+          ],
+          [
+            109,
+            155
+          ],
+          [
+            118,
+            185
+          ],
+          [
+            122,
+            181
+          ],
+          [
+            127,
+            158
+          ],
+          [
+            124,
+            152
+          ],
+          [
+            130,
+            142
+          ],
+          [
+            125,
+            129
+          ],
+          [
+            120,
+            127
+          ],
+          [
+            126,
+            81
+          ],
+          [
+            134,
+            71
+          ],
+          [
+            136,
+            58
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.4082,
+      "bbox": [
+        132.08,
+        225.33,
+        636.3,
+        442.46
+      ],
+      "rawClass": "wheel",
+      "candidateClasses": [
+        "wheel"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "wheel",
+      "partLabel": "车轮",
+      "group": "wheel",
+      "groupLabel": "车轮",
+      "instanceId": "part-3",
+      "areaPixels": 27051,
+      "polygons": [
+        [
+          [
+            604,
+            416
+          ],
+          [
+            606,
+            420
+          ],
+          [
+            610,
+            415
+          ],
+          [
+            621,
+            425
+          ],
+          [
+            626,
+            413
+          ],
+          [
+            605,
+            412
+          ]
+        ],
+        [
+          [
+            162,
+            226
+          ],
+          [
+            133,
+            246
+          ],
+          [
+            135,
+            417
+          ],
+          [
+            147,
+            433
+          ],
+          [
+            169,
+            441
+          ],
+          [
+            206,
+            439
+          ],
+          [
+            233,
+            433
+          ],
+          [
+            257,
+            433
+          ],
+          [
+            270,
+            421
+          ],
+          [
+            280,
+            371
+          ],
+          [
+            293,
+            366
+          ],
+          [
+            302,
+            358
+          ],
+          [
+            291,
+            353
+          ],
+          [
+            294,
+            346
+          ],
+          [
+            306,
+            340
+          ],
+          [
+            310,
+            329
+          ],
+          [
+            313,
+            328
+          ],
+          [
+            318,
+            334
+          ],
+          [
+            319,
+            329
+          ],
+          [
+            327,
+            325
+          ],
+          [
+            321,
+            324
+          ],
+          [
+            318,
+            318
+          ],
+          [
+            302,
+            316
+          ],
+          [
+            285,
+            323
+          ],
+          [
+            274,
+            309
+          ],
+          [
+            251,
+            308
+          ],
+          [
+            249,
+            302
+          ],
+          [
+            241,
+            296
+          ],
+          [
+            231,
+            262
+          ],
+          [
+            194,
+            236
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.4015,
+      "bbox": [
+        202.6,
+        0.36,
+        519.21,
+        28.91
+      ],
+      "rawClass": "front_glass",
+      "candidateClasses": [
+        "front_glass"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "front_glass",
+      "partLabel": "前挡风玻璃",
+      "group": "glass",
+      "groupLabel": "挡风玻璃",
+      "instanceId": "part-4",
+      "areaPixels": 5507,
+      "polygons": [
+        [
+          [
+            203,
+            24
+          ],
+          [
+            264,
+            25
+          ],
+          [
+            333,
+            21
+          ],
+          [
+            420,
+            11
+          ],
+          [
+            519,
+            9
+          ],
+          [
+            519,
+            1
+          ],
+          [
+            203,
+            1
+          ]
+        ]
+      ]
+    },
+    {
+      "confidence": 0.2681,
+      "bbox": [
+        107.43,
+        77.09,
+        640.0,
+        448.03
+      ],
+      "rawClass": "front_bumper",
+      "candidateClasses": [
+        "front_bumper"
+      ],
+      "labelStatus": "model_prediction",
+      "part": "front_bumper",
+      "partLabel": "前保险杠",
+      "group": "front_bumper",
+      "groupLabel": "前保险杠",
+      "instanceId": "part-5",
+      "areaPixels": 103993,
+      "polygons": [
+        [
+          [
+            453,
+            446
+          ],
+          [
+            443,
+            448
+          ]
+        ],
+        [
+          [
+            421,
+            377
+          ],
+          [
+            424,
+            382
+          ],
+          [
+            437,
+            389
+          ],
+          [
+            452,
+            389
+          ],
+          [
+            441,
+            381
+          ],
+          [
+            434,
+            382
+          ]
+        ],
+        [
+          [
+            639,
+            78
+          ],
+          [
+            538,
+            91
+          ],
+          [
+            478,
+            89
+          ],
+          [
+            397,
+            102
+          ],
+          [
+            397,
+            107
+          ],
+          [
+            410,
+            119
+          ],
+          [
+            436,
+            159
+          ],
+          [
+            446,
+            182
+          ],
+          [
+            446,
+            189
+          ],
+          [
+            441,
+            192
+          ],
+          [
+            385,
+            191
+          ],
+          [
+            267,
+            178
+          ],
+          [
+            223,
+            165
+          ],
+          [
+            189,
+            138
+          ],
+          [
+            184,
+            155
+          ],
+          [
+            152,
+            160
+          ],
+          [
+            141,
+            167
+          ],
+          [
+            130,
+            180
+          ],
+          [
+            112,
+            189
+          ],
+          [
+            117,
+            257
+          ],
+          [
+            114,
+            261
+          ],
+          [
+            108,
+            257
+          ],
+          [
+            108,
+            277
+          ],
+          [
+            113,
+            280
+          ],
+          [
+            117,
+            277
+          ],
+          [
+            122,
+            256
+          ],
+          [
+            158,
+            224
+          ],
+          [
+            167,
+            223
+          ],
+          [
+            198,
+            236
+          ],
+          [
+            228,
+            255
+          ],
+          [
+            286,
+            266
+          ],
+          [
+            316,
+            298
+          ],
+          [
+            341,
+            315
+          ],
+          [
+            354,
+            335
+          ],
+          [
+            366,
+            341
+          ],
+          [
+            356,
+            329
+          ],
+          [
+            370,
+            328
+          ],
+          [
+            382,
+            333
+          ],
+          [
+            383,
+            337
+          ],
+          [
+            373,
+            343
+          ],
+          [
+            374,
+            349
+          ],
+          [
+            381,
+            350
+          ],
+          [
+            391,
+            358
+          ],
+          [
+            407,
+            359
+          ],
+          [
+            421,
+            365
+          ],
+          [
+            435,
+            359
+          ],
+          [
+            445,
+            360
+          ],
+          [
+            446,
+            366
+          ],
+          [
+            438,
+            374
+          ],
+          [
+            443,
+            375
+          ],
+          [
+            450,
+            370
+          ],
+          [
+            457,
+            377
+          ],
+          [
+            466,
+            379
+          ],
+          [
+            470,
+            385
+          ],
+          [
+            482,
+            387
+          ],
+          [
+            493,
+            393
+          ],
+          [
+            493,
+            398
+          ],
+          [
+            484,
+            405
+          ],
+          [
+            495,
+            410
+          ],
+          [
+            486,
+            413
+          ],
+          [
+            533,
+            424
+          ],
+          [
+            558,
+            439
+          ],
+          [
+            578,
+            441
+          ],
+          [
+            579,
+            444
+          ],
+          [
+            574,
+            448
+          ],
+          [
+            600,
+            448
+          ],
+          [
+            597,
+            444
+          ],
+          [
+            605,
+            434
+          ],
+          [
+            618,
+            441
+          ],
+          [
+            617,
+            448
+          ],
+          [
+            639,
+            448
+          ],
+          [
+            639,
+            424
+          ],
+          [
+            634,
+            417
+          ],
+          [
+            627,
+            418
+          ],
+          [
+            627,
+            413
+          ],
+          [
+            639,
+            406
+          ]
+        ],
+        [
+          [
+            335,
+            78
+          ],
+          [
+            342,
+            82
+          ],
+          [
+            349,
+            79
+          ],
+          [
+            360,
+            81
+          ],
+          [
+            359,
+            78
+          ]
+        ]
+      ]
+    }
+  ],
+  "damages": [
+    {
+      "confidence": 0.627,
+      "bbox": [
+        400.05,
+        411.91,
+        559.25,
+        466.97
+      ],
+      "damageType": "crack",
+      "damageLabel": "裂纹",
+      "damageId": "damage-1",
+      "part": "unknown",
+      "partLabel": "部位待确认",
+      "partInstanceId": null,
+      "partConfidence": null,
+      "damageRatio": null,
+      "matchCoverage": 0.03972,
+      "matchIou": 0.02867,
+      "matchStatus": "unmatched",
+      "ratioMethod": "unmatched",
+      "candidates": [
+        {
+          "part": "front_bumper",
+          "partLabel": "前保险杠",
+          "instanceId": "part-5",
+          "coverage": 0.03972,
+          "iou": 0.02867,
+          "damageRatio": 0.0016,
+          "confidence": 0.2681,
+          "method": "mask_intersection",
+          "semanticCompatible": true
+        }
+      ],
+      "matchReason": "没有足够且类型相容的部件覆盖，保留未匹配结果。"
+    },
+    {
+      "confidence": 0.5126,
+      "bbox": [
+        324.38,
+        213.84,
+        349.2,
+        323.81
+      ],
+      "damageType": "crack",
+      "damageLabel": "裂纹",
+      "damageId": "damage-2",
+      "part": "front_bumper",
+      "partLabel": "前保险杠",
+      "partInstanceId": "part-5",
+      "partConfidence": 0.2681,
+      "damageRatio": 0.00685,
+      "matchCoverage": 0.9958,
+      "matchIou": 0.01382,
+      "matchStatus": "matched",
+      "ratioMethod": "mask_intersection",
+      "candidates": [
+        {
+          "part": "front_bumper",
+          "partLabel": "前保险杠",
+          "instanceId": "part-5",
+          "coverage": 0.9958,
+          "iou": 0.01382,
+          "damageRatio": 0.00685,
+          "confidence": 0.2681,
+          "method": "mask_intersection",
+          "semanticCompatible": true
+        }
+      ],
+      "matchReason": "按部件覆盖损伤的比例匹配，IoU用于次级排序。"
+    }
+  ],
+  "damageOrigin": "公开CarDD模型预测（仅供学生2联调）",
+  "elapsedMs": 3125,
+  "mode": "auto",
+  "thresholds": {
+    "partConfidence": 0.25,
+    "damageConfidence": 0.25,
+    "minCoverage": 0.35
+  },
+  "model": {
+    "partsModel": "YOLO11n · 车辆部件实例分割",
+    "partsSource": "https://huggingface.co/Majorburn/yolov11-carparts-seg",
+    "damageModel": "CarDD YOLOv8s-seg v2.0 · 可选联调输入",
+    "damageSource": "https://huggingface.co/abdullahg7/cardd-yolov8s",
+    "device": "CPU",
+    "partClasses": [
+      {
+        "code": "back_bumper",
+        "label": "后保险杠",
+        "group": "back_bumper"
+      },
+      {
+        "code": "front_bumper",
+        "label": "前保险杠",
+        "group": "front_bumper"
+      },
+      {
+        "code": "hood",
+        "label": "引擎盖",
+        "group": "hood"
+      },
+      {
+        "code": "trunk",
+        "label": "后备箱盖",
+        "group": "trunk"
+      },
+      {
+        "code": "tailgate",
+        "label": "尾门",
+        "group": "trunk"
+      },
+      {
+        "code": "front_door",
+        "label": "前车门（侧别未确定）",
+        "group": "door"
+      },
+      {
+        "code": "back_door",
+        "label": "后车门（侧别未确定）",
+        "group": "door"
+      },
+      {
+        "code": "front_left_door",
+        "label": "左前车门",
+        "group": "door"
+      },
+      {
+        "code": "front_right_door",
+        "label": "右前车门",
+        "group": "door"
+      },
+      {
+        "code": "back_left_door",
+        "label": "左后车门",
+        "group": "door"
+      },
+      {
+        "code": "back_right_door",
+        "label": "右后车门",
+        "group": "door"
+      },
+      {
+        "code": "front_left_light",
+        "label": "左前车灯",
+        "group": "front_light"
+      },
+      {
+        "code": "front_right_light",
+        "label": "右前车灯",
+        "group": "front_light"
+      },
+      {
+        "code": "back_left_light",
+        "label": "左后车灯",
+        "group": "back_light"
+      },
+      {
+        "code": "back_right_light",
+        "label": "右后车灯",
+        "group": "back_light"
+      },
+      {
+        "code": "front_light",
+        "label": "前车灯（侧别未确定）",
+        "group": "front_light"
+      },
+      {
+        "code": "back_light",
+        "label": "后车灯（侧别未确定）",
+        "group": "back_light"
+      },
+      {
+        "code": "front_glass",
+        "label": "前挡风玻璃",
+        "group": "glass"
+      },
+      {
+        "code": "back_glass",
+        "label": "后挡风玻璃",
+        "group": "glass"
+      },
+      {
+        "code": "left_mirror",
+        "label": "左后视镜",
+        "group": "mirror"
+      },
+      {
+        "code": "right_mirror",
+        "label": "右后视镜",
+        "group": "mirror"
+      },
+      {
+        "code": "wheel",
+        "label": "车轮",
+        "group": "wheel"
+      },
+      {
+        "code": "door",
+        "label": "车门（细分类待确认）",
+        "group": "door"
+      },
+      {
+        "code": "mirror",
+        "label": "后视镜（侧别待确认）",
+        "group": "mirror"
+      },
+      {
+        "code": "glass",
+        "label": "玻璃（位置待确认）",
+        "group": "glass"
+      }
+    ],
+    "nativeModelClasses": [
+      "back_bumper",
+      "back_door",
+      "back_glass",
+      "back_left_door",
+      "back_left_light",
+      "back_light",
+      "back_right_door",
+      "back_right_light",
+      "front_bumper",
+      "front_door",
+      "front_glass",
+      "front_left_door",
+      "front_left_light",
+      "front_light",
+      "front_right_door",
+      "front_right_light",
+      "hood",
+      "left_mirror",
+      "object",
+      "right_mirror",
+      "tailgate",
+      "trunk",
+      "wheel"
+    ],
+    "focusGroups": {
+      "front_bumper": "前保险杠",
+      "back_bumper": "后保险杠",
+      "hood": "引擎盖",
+      "trunk": "后备箱 / 尾门",
+      "door": "车门",
+      "front_light": "前车灯",
+      "back_light": "后车灯",
+      "glass": "挡风玻璃",
+      "mirror": "后视镜",
+      "wheel": "车轮"
+    },
+    "excludedClasses": [
+      "object"
+    ],
+    "weightsOrigin": "公开预训练模型，非学生自行训练",
+    "matchingMethod": "优先分割区域交集；外部损伤框采用框内部件像素覆盖率。IoU作为次级排序依据。车灯/玻璃/轮胎损伤附加类别相容检查。",
+    "deduplication": "同类部件Mask IoU≥0.65合并，冲突标签保留待确认",
+    "notice": "本Demo使用公开预训练模型，识别与匹配结果需要人工复核。"
+  },
+  "notice": "本Demo使用公开预训练模型，识别与匹配结果需要人工复核。"
+}
