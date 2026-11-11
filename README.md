@@ -1,3 +1,29 @@
+<!-- project-showcase:start -->
+<p align="center"><img src="docs/showcase/cover.svg" width="100%" alt="车损智检 · 车辆损伤与配件识别演示" /></p>
+<p align="center"><b>车辆样例 · 配件识别 · 复现演示</b></p>
+<p align="center"><a href="#作品画面">看作品</a>　 ·　 <a href="ITERATION_HISTORY.md">历次迭代</a>　 ·　 <a href="https://github.com/qiuyimei/student2-vehicle-parts-demo/archive/refs/heads/main.zip">下载源码</a>　 ·　 <a href="https://github.com/qiuyimei/codex-old-deliverables-20261031#作品图录">全部作品</a></p>
+
+**车损智检** · 车辆损伤与配件识别演示。
+
+## 作品画面
+
+<p align="center"><a href="docs/showcase/preview-01.png"><img src="docs/showcase/preview-01.png" width="900" alt="车辆损伤与配件识别演示" /></a><br/><sub>车辆损伤与配件识别演示</sub></p>
+
+## 从这里开始
+
+| 想做什么 | 入口 |
+| --- | --- |
+| 查看每次迭代、日期与改动 | [历史版本目录](ITERATION_HISTORY.md) |
+| 下载当前完整源码 | [当前版本 ZIP](https://github.com/qiuyimei/student2-vehicle-parts-demo/archive/refs/heads/main.zip) |
+| 下载发布包、查看已有附件 | [Releases 发布页](https://github.com/qiuyimei/student2-vehicle-parts-demo/releases) |
+| 浏览当前工程 | [仓库文件](.) |
+
+<!-- project-showcase:end -->
+
+---
+
+## 使用与项目说明
+
 # 学生2车辆部件识别与损伤定位
 
 本仓库是“基于深度学习的车辆损伤识别与维修建议系统”中学生2的独立模块。输入一张车辆照片，识别车门、保险杠、车灯等部件，再把学生1提供的损伤位置关联到具体部件。
@@ -81,3 +107,4 @@ models/README.md     权重来源、用途和SHA256
 ```
 
 部件权重来自[Majorburn公开模型](https://huggingface.co/Majorburn/yolov11-carparts-seg)；可选损伤输入来自[CarDD YOLOv8s模型](https://huggingface.co/abdullahg7/cardd-yolov8s)。引用、许可和素材来源保留在[第三方说明](THIRD_PARTY_NOTICES.md)。
+
