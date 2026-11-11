@@ -13,7 +13,7 @@
 
 | 时间（原记录） | 改动说明 | 源码 | 下载 |
 |---|---|---|---|
-| 2026-10-25 03:09:18 | Add student2 parts demo and detailed reproducibility tutorials | [7c84f6c46d](https://github.com/qiuyimei/student2-vehicle-parts-demo/tree/7c84f6c46d195689c678c0a412b2fec90a4ac2ce) | [ZIP](https://github.com/qiuyimei/student2-vehicle-parts-demo/archive/7c84f6c46d195689c678c0a412b2fec90a4ac2ce.zip) |
+| 2026-10-25 03:09:18 | 变更 121 个文件（新增 121）；涉及 `ai/__init__.py`、`ai/inputs.py`、`ai/matching.py`<br>原始记录：Add student2 parts demo and detailed reproducibility tutorials | [7c84f6c46d](https://github.com/qiuyimei/student2-vehicle-parts-demo/tree/7c84f6c46d195689c678c0a412b2fec90a4ac2ce) | [ZIP](https://github.com/qiuyimei/student2-vehicle-parts-demo/archive/7c84f6c46d195689c678c0a412b2fec90a4ac2ce.zip) |
 
 ## 核验
 
